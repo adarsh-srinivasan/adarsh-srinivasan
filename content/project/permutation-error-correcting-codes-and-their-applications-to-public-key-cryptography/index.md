@@ -4,8 +4,7 @@ title: Permutation error-correcting codes and their applications to public-key
 date: 2021-11-12T03:54:01.023Z
 draft: false
 featured: false
-tags:
-  - deep learning
+tags: []
 image:
   filename: featured
   focal_point: Smart
