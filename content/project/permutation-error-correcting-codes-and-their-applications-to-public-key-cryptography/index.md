@@ -5,7 +5,7 @@ date: 2021-11-12T03:54:01.023Z
 draft: false
 featured: false
 tags:
-  - cryptography
+  - deep learning
 image:
   filename: featured
   focal_point: Smart
