@@ -27,7 +27,7 @@ organizations:
     url: https://www.cornell.edu/
 education:
   courses:
-    - course: MS in mathematics
+    - course: BS-MS in Mathematics
       institution: Indian Institute of Science Education and Research, Pune
       year: 2021
 superuser: true
@@ -35,8 +35,6 @@ highlight_name: true
 title: Adarsh Srinivasan
 email: ""
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hi! I am a research staff in the department of Computer Science at Cornell University, working with Noah Stephens-Davidowitz. I recieved a BS and an MS in mathematics from IISER Pune in 2021, where I was adviced by Ayan Mahalanobis. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
