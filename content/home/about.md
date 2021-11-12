@@ -1,5 +1,5 @@
 ---
-widget: about
+widget: about me
 headless: true
 weight: 20
 title: About
