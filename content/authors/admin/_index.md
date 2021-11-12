@@ -1,7 +1,10 @@
 ---
 role: Research staff at Cornell University
 bio: ""
-interests: []
+interests:
+  - ComputationalComplexityTheory
+  - Lattices
+  - ErrorCorrectingCodes
 social:
   - icon: envelope
     icon_pack: fas
