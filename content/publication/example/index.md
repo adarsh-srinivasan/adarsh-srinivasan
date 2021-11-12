@@ -28,7 +28,7 @@ publication: In *Wowchemy Conference*
 featured: false
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
-title: The Connected Domination Number of Grids
+title: The Connected Domination Number of Gridss
 tags: []
 projects: []
 image:
