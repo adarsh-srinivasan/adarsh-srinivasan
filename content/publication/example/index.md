@@ -21,10 +21,10 @@ summary: ""
 url_dataset: ""
 url_project: ""
 author_notes: []
-publication_short: In *ICW*
+publication_short: CALDAM 2021
 url_source: ""
 url_video: ""
-publication: In *Wowchemy Conference*
+publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
 featured: false
 date: 2021-02-12T02:00:00.000Z
 url_slides: ""
