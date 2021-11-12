@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 publication: In *Wowchemy Conference*
 featured: false
-date: 2013-07-01T00:00:00.000Z
+date: 2021-02-12T02:00:00.000Z
 url_slides: ""
 title: "The Connected Domination Number of Grids "
 tags: []
