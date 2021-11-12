@@ -15,7 +15,7 @@ content:
       tag: Deep Learning
     - name: Other
       tag: Demo
-headless: true
+headless: false
 design:
   columns: ""
   view: 2
