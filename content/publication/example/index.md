@@ -26,7 +26,7 @@ url_source: ""
 url_video: ""
 publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
 featured: false
-date: 2021-02-12T02:00:00.000Z
+date: 2021-11-12T04:55:53.008Z
 url_slides: ""
 title: "The Connected Domination Number of Grids "
 tags: []
@@ -40,13 +40,3 @@ url_poster: ""
 url_code: ""
 doi: https://doi.org/10.1007/978-3-030-67899-9_19
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
