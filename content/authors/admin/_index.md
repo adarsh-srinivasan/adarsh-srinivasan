@@ -34,6 +34,6 @@ highlight_name: true
 title: Adarsh Srinivasan
 email: ""
 ---
-Hi! I am a research staff in the department of Computer Science at Cornell University, working with Noah Stephens-Davidowitz. I recieved a BS and an MS in mathematics from IISER Pune in 2021, where I was advised by Ayan Mahalanobis. 
+Hi! I am a research staff in the department of Computer Science at Cornell University, working with [Noah Stephens-Davidowitz](https://www.noahsd.com/). I recieved a BS and an MS in mathematics from [IISER Pune](https://www.iiserpune.ac.in/) in 2021, where I was advised by [Ayan Mahalanobis](http://sites.iiserpune.ac.in/~ayan/). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
