@@ -2,9 +2,11 @@
 role: Research staff at Cornell University
 bio: ""
 interests:
-  - ComputationalComplexityTheory
-  - Lattices
-  - ErrorCorrectingCodes
+  - Computational Complexity Theory
+  - Lattices in computer science
+  - Error Correcting Codes
+  - Cryptography
+  - Graph Theory
 social:
   - icon: envelope
     icon_pack: fas
