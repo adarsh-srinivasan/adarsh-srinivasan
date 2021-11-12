@@ -1,10 +1,7 @@
 ---
 role: Research staff at Cornell University
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
