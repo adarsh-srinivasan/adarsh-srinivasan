@@ -1,7 +1,6 @@
 ---
 role: Research staff at Cornell University
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
   - Artificial Intelligence
   - Computational Linguistics
