@@ -11,3 +11,8 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+
+
+
+
+ <script src="https://bibbase.org/show?bib=https://dblp.org/pid/279/3715.bib&jsonp=1"></script>
