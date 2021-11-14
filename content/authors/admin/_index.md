@@ -1,6 +1,6 @@
 ---
 role: Research staff at Cornell University
-avatar_filename: profile.jpeg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Computational Complexity Theory
