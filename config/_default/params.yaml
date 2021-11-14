@@ -89,12 +89,12 @@ edit_page:
     post: false
     book: false
 show_related:
-  book: false
-  page: false
-  post: false
-  project: false
-  publication: false
-  event: false
+  book: true
+  page: true
+  post: true
+  project: true
+  publication: true
+  event: true
 reading_time: true
 section_pager: false
 docs_section_pager: true
