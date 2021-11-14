@@ -9,9 +9,9 @@ interests:
   - Cryptography
   - Graph Theory
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adarsh_42
