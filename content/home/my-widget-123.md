@@ -3,6 +3,7 @@ widget: blank
 widget_id: my-widget-123
 headless: true
 weight: 100
+title: Publications
 active: true
 design:
   columns: "2"
