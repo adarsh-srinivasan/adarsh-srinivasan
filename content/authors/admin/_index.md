@@ -9,9 +9,6 @@ interests:
   - Cryptography
   - Graph Theory
 social:
-  #- icon: envelope
-  #  icon_pack: fas
-  #  link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/adarsh_42
@@ -40,5 +37,3 @@ email: adarshsrinivasan256@gmail.com
 Hi! I am a research staff in the department of Computer Science at Cornell University, working with [Noah Stephens-Davidowitz](https://www.noahsd.com/). I recieved a BS and an MS in mathematics from [IISER Pune](https://www.iiserpune.ac.in/) in 2021, where I was advised by [Ayan Mahalanobis](http://sites.iiserpune.ac.in/~ayan/). 
 
 My email address is adarshsrinivasan256 (at) gmail (dot) com.
-
- <script src="https://bibbase.org/show?bib=https://dblp.org/pid/279/3715.bib&jsonp=1"></script> 
