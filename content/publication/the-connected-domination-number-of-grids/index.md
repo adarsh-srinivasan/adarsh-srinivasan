@@ -23,7 +23,6 @@ abstract: "Closed form expressions for the domination number of an $n \times m$
 draft: false
 featured: false
 date: 2021-11-25T22:44:26.171Z
-url: https://arxiv.org/abs/2011.11328
 image:
   filename: ""
   focal_point: ""
