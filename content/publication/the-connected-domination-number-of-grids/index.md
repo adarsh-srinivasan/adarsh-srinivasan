@@ -4,7 +4,7 @@ subtitle: https://arxiv.org/abs/2011.11328
 publication_types:
   - "1"
 authors:
-  - Adarsh Srinivasan
+  - admin
   - NS Narayanaswamy
 doi: 10.1007/978-3-030-67899-9_19
 publication: Conference on Algorithms and Discrete Applied Mathematics 2021
