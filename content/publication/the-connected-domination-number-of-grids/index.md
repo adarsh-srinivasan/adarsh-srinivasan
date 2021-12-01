@@ -22,7 +22,7 @@ abstract: Closed form expressions for the domination number of an $n \times m$
   \{m,n\}}{3}}}{3}}$ for arbitrary $m,n \geq 4$.
 draft: false
 featured: false
-date: 2021-2
+date: 2021-02
 image:
   filename: ""
   focal_point: ""
