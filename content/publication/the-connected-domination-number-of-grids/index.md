@@ -21,6 +21,7 @@ abstract: Closed form expressions for the domination number of an $n \times m$
   optimum. We prove a new lower bound of $\ceil*{\frac{mn+2\ceil*{\frac{\min
   \{m,n\}}{3}}}{3}}$ for arbitrary $m,n \geq 4$.
 draft: false
+url_pdf: https://arxiv.org/pdf/2011.11328.pdf
 featured: false
 image:
   filename: ""
