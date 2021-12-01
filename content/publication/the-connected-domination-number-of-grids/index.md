@@ -12,10 +12,10 @@ publication_short: ""
 abstract: >+
    Closed form expressions for the domination number of an $n \times m$ grid
   have attracted significant attention, and an exact expression has been
-  obtained in 2011 by Gon\c{c}alves et al. In this paper, we present our results
-  on obtaining new lower bounds on the connected domination number of an $n
-  \times m$ grid. The problem has been solved for grids with up to $4$ rows and
-  with $6$ rows by Tolouse et al and the best currently known lower bound for
+  obtained in 2011 by Goncalves et al. In this paper, we present our results on
+  obtaining new lower bounds on the connected domination number of an $n \times
+  m$ grid. The problem has been solved for grids with up to $4$ rows and with
+  $6$ rows by Tolouse et al and the best currently known lower bound for
   arbitrary $m,n$ is $\lceil\frac{mn}{3}\rceil$. Fujie came up with a general
   construction for a connected dominating set of an $n \times m$ grid of size
   $\min \lbrace 2n+(m-4)+\lfloor\frac{m-4}{3}\rfloor(n-2),
