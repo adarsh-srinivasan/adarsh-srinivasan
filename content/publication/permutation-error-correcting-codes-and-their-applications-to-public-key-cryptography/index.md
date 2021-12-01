@@ -1,6 +1,6 @@
 ---
 title: Permutation error-correcting codes and their applications to public-key
-  cryptography huhuhuhuhu
+  cryptography
 subtitle: "Masters thesis "
 publication_types:
   - "7"
