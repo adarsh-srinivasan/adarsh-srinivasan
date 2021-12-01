@@ -7,6 +7,7 @@ authors:
   - admin
   - Ayan Mahalanobis
 doi: ""
+url_pdf: https://arxiv.org/pdf/2111.02119.pdf
 abstract: "This paper is an attempt to build a new public-key cryptosystem;
   similar to the McEliece cryptosystem, using permutation error-correcting
   codes. We study a public-key cryptosystem built using two permutation
