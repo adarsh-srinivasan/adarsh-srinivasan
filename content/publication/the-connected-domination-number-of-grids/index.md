@@ -6,7 +6,7 @@ publication_types:
 authors:
   - admin
   - NS Narayanaswamy
-doi: 10.1007/978-3-030-67899-9_19
+url_pdf: https://arxiv.org/pdf/2011.11328.pdf
 publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
 publication_short: ""
 abstract: >+
