@@ -18,7 +18,7 @@ abstract: >+
   with $6$ rows by Tolouse et al and the best currently known lower bound for
   arbitrary $m,n$ is $\lceil\frac{mn}{3}\rceil$. Fujie came up with a general
   construction for a connected dominating set of an $n \times m$ grid of size
-  $\min \left\{2n+(m-4)+\lfloor\frac{m-4}{3}\rfloor(n-2),
+  $min \left\{2n+(m-4)+\lfloor\frac{m-4}{3}\rfloor(n-2),
   2m+(n-4)+\lfloor\frac{n-4}{3}\rfloor(m-2) \right\}$ . In this paper, we
   investigate whether this construction is indeed optimum. We prove a new lower
   bound of $\left\lceil\frac{mn+2\lceil\frac{\min \{m,n\}}{3}\rceil}{3}
