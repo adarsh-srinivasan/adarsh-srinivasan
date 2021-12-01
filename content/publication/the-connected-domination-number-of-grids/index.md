@@ -7,8 +7,8 @@ authors:
   - admin
   - NS Narayanaswamy
 doi: 10.1007/978-3-030-67899-9_19
-publication: Conference on Algorithms and Discrete Applied Mathematics 2021
-publication_short: CALDAM 2021
+publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
+publication_short: ""
 abstract: Closed form expressions for the domination number of an $n \times m$
   grid have attracted significant attention, and an exact expression has been
   obtained in 2011~\cite{griddomset1}. In this paper, we present our results on
