@@ -1,13 +1,12 @@
 ---
 title: " A McEliece cryptosystem using permutation codes "
-subtitle: https://arxiv.org/abs/2111.02119
+subtitle: ""
 publication_types:
   - "3"
 authors:
   - admin
   - Ayan Mahalanobis
 doi: ""
-url_pdf: https://arxiv.org/pdf/2111.02119.pdf
 abstract: "This paper is an attempt to build a new public-key cryptosystem;
   similar to the McEliece cryptosystem, using permutation error-correcting
   codes. We study a public-key cryptosystem built using two permutation
@@ -15,6 +14,7 @@ abstract: "This paper is an attempt to build a new public-key cryptosystem;
   However, the general framework in these cryptosystems can use any permutation
   error-correcting code and is interesting. "
 draft: false
+url_pdf: https://arxiv.org/pdf/2111.02119.pdf
 featured: false
 image:
   filename: ""
