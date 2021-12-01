@@ -6,7 +6,6 @@ publication_types:
 authors:
   - admin
   - NS Narayanaswamy
-doi: 10.1007/978-3-030-67899-9_19
 publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
 publication_short: ""
 abstract: Closed form expressions for the domination number of an $n \times m$
