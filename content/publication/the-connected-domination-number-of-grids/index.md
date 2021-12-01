@@ -1,11 +1,12 @@
 ---
 title: "The Connected Domination Number of Grids "
-subtitle: https://arxiv.org/abs/2011.11328
+subtitle: ""
 publication_types:
   - "1"
 authors:
   - admin
   - NS Narayanaswamy
+doi: 10.1007/978-3-030-67899-9_19
 publication: Conference on Algorithms and Discrete Applied Mathematics, 2021
 publication_short: ""
 abstract: Closed form expressions for the domination number of an $n \times m$
@@ -20,7 +21,6 @@ abstract: Closed form expressions for the domination number of an $n \times m$
   optimum. We prove a new lower bound of $\ceil*{\frac{mn+2\ceil*{\frac{\min
   \{m,n\}}{3}}}{3}}$ for arbitrary $m,n \geq 4$.
 draft: false
-url_pdf: https://arxiv.org/pdf/2011.11328.pdf
 featured: false
 image:
   filename: ""
