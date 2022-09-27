@@ -28,6 +28,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I am a first year PhD student in the theory of computing group at Rutgers university, advised by [Karthik CS](https://karthikcs.org) I recieved a Bachelor's and Master's degree in Mathematics from [IISER Pune](https://www.iiserpune.ac.in/) in 2021, where I was advised by [Ayan Mahalanobis](http://sites.iiserpune.ac.in/~ayan/). I also spent a year at Cornell University where I worked with [Noah Stephens-Davidowitz](https://www.noahsd.com/).
+Hi! I am a first year PhD student in the theory of computing group at Rutgers university, advised by [Karthik CS](https://karthikcs.org). I recieved a Bachelor's and Master's degree in Mathematics from [IISER Pune](https://www.iiserpune.ac.in/) in 2021, where I was advised by [Ayan Mahalanobis](http://sites.iiserpune.ac.in/~ayan/). I also spent a year at Cornell University where I worked with [Noah Stephens-Davidowitz](https://www.noahsd.com/).
 
 My email address is adarshsrinivasan256 (at) gmail (dot) com.
